@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B673CBF3-9144-4F0F-B8B9-41716440C694}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="30" Column="28" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="60" Column="53" />
+      <File FileName="Assets/Scripts/Block.cs" Line="44" Column="45" />
+      <File FileName="Assets/Scripts/Level.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/GameStatus.cs" Line="56" Column="6" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="17" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlockBreaker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Paddle.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2815394c-dabb-4d6a-a8cf-d7b07b5f213f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
